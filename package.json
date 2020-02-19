@@ -1,0 +1,26 @@
+{
+  "name": "SpeedVansMapped",
+  "version": "1.0.0",
+  "description": "Data Visualization Mapping of all currently listed Gardai and Civilian Speed Detection units across the Republic of Ireland",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelos5/SpeedVansMapped.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelos5/SpeedVansMapped/issues"
+  },
+  "homepage": "https://github.com/michaelos5/SpeedVansMapped#readme",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.2"
+  }
+}
