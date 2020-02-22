@@ -1,6 +1,6 @@
 <?php
 function retrieveEncrytpedPolyines($start_lat, $start_lng, $end_lat, $end_lng) {
-	$API_KEY = "AIzaSyAaaJGUdN05Oh7FHXfZOYf74Ok6lGfI5XA";
+	$API_KEY = "INSERT_YOUR_API_KEY_HERE";
 	$url = "https://maps.googleapis.com/maps/api/directions/json?origin={$start_lat},{$start_lng}&destination={$end_lat},{$end_lng}&key={$API_KEY}";
 		
 	$resp_json  = file_get_contents($url);
