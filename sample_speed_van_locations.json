@@ -13,7 +13,8 @@
    "end_latitude": 52.07241,
    "end_longtitude": -9.575299,
    "length_in_kms": 4.61,
-   "type": "Current"
+   "type": "Current",
+   "encrypted_polyline": ""
  },
  {
    "zone_number": 5,
@@ -29,7 +30,8 @@
    "end_latitude": 52.081185,
    "end_longtitude": -9.247033,
    "length_in_kms": 10.56,
-   "type": "Current"
+   "type": "Current",
+   "encrypted_polyline": ""
  },
  {
    "zone_number": 7,
@@ -45,7 +47,8 @@
    "end_latitude": 52.143582,
    "end_longtitude": -9.553727,
    "length_in_kms": 8.95,
-   "type": "Current"
+   "type": "Current",
+   "encrypted_polyline": ""
  },
  {
    "zone_number": 10,
@@ -61,6 +64,7 @@
    "end_latitude": 52.442841,
    "end_longtitude": -9.410501,
    "length_in_kms": 2.6,
-   "type": "Current"
+   "type": "Current",
+   "encrypted_polyline": ""
  }
 ]
